@@ -1,0 +1,8 @@
+include LICENSE
+include README.md
+include README.txt
+include CHANGELOG.md
+include MANIFEST.in
+include requirements.txt
+
+recursive-include django_backup/django_backup/*
